@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Side Nav Bar menu -->
+    <string name="username">Username</string>
+    <string name="rank">Rank 3</string>
+    <string name="side_nav_bar_item_1">Home</string>
+    <string name="side_nav_bar_item_2">Fragment 2</string>
+    <string name="side_nav_bar_item_3">Fragment 3</string>
+    <string name="side_nav_bar_item_4">Fragment 4</string>
+</resources>
