@@ -12,6 +12,7 @@ import android.view.ViewGroup;
 public class FragmentD extends Fragment{
     //Mandatory Constructor
     public FragmentD() {
+        // test
     }
 
     public void onCreate(Bundle savedInstanceState) {
